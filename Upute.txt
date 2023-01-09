@@ -1,0 +1,7 @@
+UPUTE KAKO POKRENUTI LEAGUE OF LEGENDS (VOLIBEAR/SETT) BOT
+1. Rezolucija mora biti 1920x1080
+2. Treba biti prethodno izrađen item set s dvije kategorije za željenog championa
+3. Pokrenuti main.py  i upisati champion ime i stranu mape za koju igramo
+4. Uči u meč
+6. Dok je vrijeme proteklo u igri 0:55 pritisnuti ENTER u terminalu i Alt+Tab na League of Legends window
+7. Isključiti bot na kraju igre ili prije držanjem tipke ESCAPE sve dok se pokretima miša ne vidi da je bot prestao s radom
